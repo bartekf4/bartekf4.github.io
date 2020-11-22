@@ -8,9 +8,7 @@
 
 Jak powiedział kiedyś stary mędrzec:
 > A kto umarł,
-> ten nie żyje
-
-
+> ten nie żyje.
 
 
 
