@@ -10,14 +10,11 @@ Jak powiedział kiedyś stary mędrzec:
 > A kto umarł,
 > ten nie żyje.
 
-<br><br>
+
 
 ### Pomocnik Studenta ###
 Ostatnio pracowałem nad projektem Pomocnik Studenta. Jest to aplikacja pomagająca studenton debilom w organizacji. Ma wiele przydatnych funkcjonalności. Był to projekt zaliczniowy na przedmiot Narzędzia Informatyczne 
 <img src="https://raw.githubusercontent.com/AGH-Narzedzia-Informatyczne/Pomocnik-Studenta-Test/main/menu%20(1).png"
      alt="Główne menu"
      style="float: left; margin-right: 10px;" /><br><br>
-<img src="https://i.pinimg.com/originals/94/4e/b7/944eb70b31dd2d1b152cfa7b415b929c.jpg"
-     alt="żabkau"
-     width="500" height="500"
-     style="float: left; margin-right: 10px;" />
+
